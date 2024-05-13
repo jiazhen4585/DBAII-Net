@@ -1,0 +1,47 @@
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/Zhang_Xiaoyu
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/TAN RUI YA 246796
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/liu zu yi406088
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/XING_NANG_YUN
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/He Yi fei 9M
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/jiang yan299979 12M
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/HAN YI SHAN
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/LI ZI HAO
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/liu_jia_rui
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/gan_wen_xiang  9M
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/WANG_YU_QING
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/ZHANG_ZI_YOU
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/ZHANG_YAN
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/ZHANG_YU_TONG
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/ma zi yue 446061
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/zhu ning xi 419258
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/zhang shu han 382761
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/meng shun ke 269018
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/xu_kai_jie
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/kuang ming rui 307989
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/Tang_Zitong
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/WANG_YOU_QI
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/CHU_DA_BAO
+Lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/Lesions/gao yu han337497
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/wangruixi313987
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/qixinyu279629
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/PENGZELIN250207
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/panruibing280990
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/duan shu zheng 389540
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/WANGYU255240
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/LIHENGYUAN248014
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/GENGZICHEN242723
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/chenkaixiang317075
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/LIUZEHAO231014
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/jia lin  hao 358078
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/pangleqi325699
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/zeng wang shu 355473
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/lixunhe300984
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/li zi tong 353134
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/liuziang281073
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/fengjingya280915
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/CHANGYUFEI259363
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/jiayiming
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/panpenghao273065
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/wuruntong321961
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/chenbaiyu
+No_lesions,/data/jiazhen/code/3DClassification-framework/dataset/lesions_classification_dataset/No_lesions/he ze368487
